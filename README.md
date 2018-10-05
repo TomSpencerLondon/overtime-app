@@ -1,5 +1,7 @@
 # Overtime App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TomSpencerLondon/overtime-app.svg)](https://greenkeeper.io/)
+
 ## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
 ## Models 
